@@ -1,7 +1,7 @@
 {:navgroup: .navgroup}
 {:topicgroup: .topicgroup}
 
-{: .toc subcollection="runtimes-common" audience="runtime" href="/docs/runtimes/common/index.html" path="runtimes/common"}
+{: .toc subcollection="runtimes-common" audience="runtime" href="/docs/runtimes-common/index.html" path="runtimes-common"}
 Buildpacks
 
     {: .navgroup id="learn"}
