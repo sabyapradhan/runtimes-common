@@ -1,0 +1,24 @@
+{:navgroup: .navgroup}
+{:topicgroup: .topicgroup}
+
+{: .toc subcollection="runtimes" audience="runtime" href="/docs/runtimes/common/index.html"}
+Buildpack
+
+    {: .navgroup id="learn"}
+    index.md
+    {: .navgroup-end}
+
+    {: .navgroup id="howto"}
+    byob.md
+    starter_app_usage.md
+    {: .navgroup-end}
+
+    {: .navgroup id="reference"}
+    app_mng.md
+    workingWithProxy.md
+    {: .navgroup-end}
+
+    {: .navgroup id="help"}
+    ts_runtimes.md
+    buildpackSupport.md
+    {: .navgroup-end}
